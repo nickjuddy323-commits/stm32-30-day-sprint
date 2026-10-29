@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.taste-skill/
+qa-screenshots/
+output/
+.playwright-cli/
