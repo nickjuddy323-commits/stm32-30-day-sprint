@@ -6,3 +6,6 @@ dist/
 qa-screenshots/
 output/
 .playwright-cli/
+.netlify/
+.npm-cache/
+netlify-site.zip

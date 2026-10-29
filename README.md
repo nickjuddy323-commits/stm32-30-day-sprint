@@ -2,6 +2,13 @@
 
 一个可直接打卡的 STM32 学习工作台，覆盖 **2026 年 11 月 1 日至 12 月 5 日** 的完整安排。
 
+## 在线访问
+
+- Netlify：[stm32-30-day-sprint.netlify.app](https://stm32-30-day-sprint.netlify.app/)
+- GitHub Pages：[nickjuddy323-commits.github.io/stm32-30-day-sprint](https://nickjuddy323-commits.github.io/stm32-30-day-sprint/)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nickjuddy323-commits/stm32-30-day-sprint)
+
 ## 内容
 
 - 30 个学习日 + 5 个缓冲日，共 35 个日期节点
@@ -45,4 +52,4 @@ npm run preview
 
 ## 部署
 
-推送到 `main` 后，GitHub Actions 会构建 Vite 站点并发布到 GitHub Pages。
+推送到 `main` 后，GitHub Actions 会构建 Vite 站点并发布到 GitHub Pages。项目根目录的 `netlify.toml` 也已配置好 Vite 构建目录，可直接用于 Netlify 持续部署。
