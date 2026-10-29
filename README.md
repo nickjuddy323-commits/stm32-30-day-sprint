@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-- Netlify：[stm32-30-day-sprint.netlify.app](https://stm32-30-day-sprint.netlify.app/)
+- Netlify：[nick-stm32-30-day-sprint.netlify.app](https://nick-stm32-30-day-sprint.netlify.app/)
 - GitHub Pages：[nickjuddy323-commits.github.io/stm32-30-day-sprint](https://nickjuddy323-commits.github.io/stm32-30-day-sprint/)
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/nickjuddy323-commits/stm32-30-day-sprint)
